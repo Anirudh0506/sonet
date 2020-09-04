@@ -1,0 +1,39 @@
+body{
+    padding:20vh;
+}
+
+
+.box{
+    width:300px;
+    height:auto;
+    margin:auto;
+    padding:20px 25px;
+    border-radius: 10px;
+    background-color: rgb(178, 211, 238);
+    box-shadow: 5px 10px 10px 5px rgb(32, 28, 28);
+    border-color: black;
+    
+}
+
+
+.box input{
+    width:200px;
+    text-align: center;
+    height: 25px;
+    border-radius: 4px;
+    
+    
+}
+.box small[type="fp"]{
+    color:rgba(90, 79, 79, 0.596);
+    padding-left: 115px;
+ 
+}
+
+.box button{
+    background-color:rgb(165, 28, 51);
+    color:white;
+    width:200px;
+    height:30px;
+    
+}
